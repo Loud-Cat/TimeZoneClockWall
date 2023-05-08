@@ -3,4 +3,4 @@ A desktop app that displays virtual analog clocks on a "wall", similar to airpor
 
 ![screenshot of the main window](images/ClockWall_SS.png)
 
-![screenshot of the time selection window](TimeDialog_SS.png)
+![screenshot of the time selection window](images/TimeDialog_SS.png)
